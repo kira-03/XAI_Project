@@ -1,5 +1,5 @@
-# Opening the AI Black Box: Advanced XAI Implementation
-
+# Unlocking AI Transparency: Advanced Explainable AI (XAI) Techniques
+ 
 ## 🎯 Project Overview
 Research implementation focused on transforming AI from a black box to an interpretable white box system through advanced visualization and feature extraction techniques.
 
